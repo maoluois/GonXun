@@ -1,0 +1,5 @@
+"D:\C\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/C/CLion 2024.1.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\ProgramData\cuubemx\GonXun\h750_blink -B D:\ProgramData\cuubemx\GonXun\h750_blink\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/ProgramData/cuubemx/GonXun/h750_blink/cmake-build-debug
